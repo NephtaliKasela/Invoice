@@ -1,0 +1,29 @@
+Dave Robichaux
+Box 44
+LaFouche Bayou Road
+Lafayette	LA	70507
+
+Item      Units
+---------------
+F0010	     4
+BV085	     4
+FZ050	     2
+F0015	     1
+V0015	     5
+BV080	     4
+F0009	     2
+D0032	     1
+F0002	     9
+F0005	     3
+S0012	    10
+S0037	     8
+BV001	     2
+D0010	     4
+D0020	     9
+F0013	     3
+B0007	     7
+F0014	     2
+B0003	     9
+B0010	     8
+FZ002	     2
+FZ007	     3

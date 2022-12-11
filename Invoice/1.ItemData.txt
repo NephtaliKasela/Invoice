@@ -1,0 +1,46 @@
+SKU		Item                                        Price
+--------------------------------------------------------
+F0015	Navel Orange, large	0.69
+F0002	Braeburn apples, 6 pack	4.49
+F0013	Lemon, medium	0.39
+FZ002	Chocolate Ice Cream, half gallon	5.49
+V0015	Whole Kernel Corn 14.5 oz	0.75
+F0005	Bananas, green 16 oz	0.69
+S0037	Mahi Mahi 8 oz	9.99
+S0012	Oysters 8 oz	6.99
+F0012	Lemon, large	0.59
+FZ007	Coffee Ice Cream, half gallon	5.49
+V0017	Lima Beans 15 oz	0.97
+F0003	Gala apples, 2 pack	1.89
+D0032	Swiss, 1 lb	8.99
+F0009	Blackberries, vine ripened 1/2 pt	4.49
+D0022	Thin Slice Swiss Cheese 8 oz	3.39
+BV085	Dannon Natural Spring Water, 1 liter	1.19
+F0014	Lime	0.59
+BV011	Coca Cola Classic, 24 pack cans	5.99
+B0010	White Bread, 16 oz loaf	2.19
+M0010	Chicken Wings, 10 oz	2.99
+FZ050	Buttermilk Waffles, 10	2.39
+F0018	Honeydew	3.99
+BV021	Diet Pepsi, 24 pack cans	5.79
+FZ042	French Fries, 32 oz	2.29
+M0018	Chicken thighs	1.79
+BV080	Aquafina, 1 liter	0.99
+F0019	Beefsteak Tomato, 4 pack	4.49
+D0100	Old Fashioned Spread, 16 oz	0.89
+D0030	Monterey Jack, 1 lb	6.99
+B0011	White Bread, 20 oz loaf	2.55
+M0031	Choice Filet Mignon 8 oz	9.49
+M0004	Ground Beef 80% Lean 16 oz	3.49
+P0040	Firm Tofu, 12.3 oz	1.39
+B0021	Bagels, Plain, 6 pack	2.39
+F0010	Blueberries, vine ripened 1/2 pt	5.99
+FZ055	Blueberry Waffles, 10	2.39
+B0001	Whole Wheat Bread, 20 oz loaf	2.41
+BV020	Diet Pepsi, 6 pack 24 oz bottles	2.99
+D0014	Cheddar Singles 12 oz	3.09
+S0029	Orange Roughy fillets 8 oz	9.99
+P0042	Extra-Firm Tofu, 12.3 oz	1.39
+F0017	Cantaloupe	1.99
+B0003	Honey Wheat Bread, 16 oz loaf	2.45
+F0020	Cherry Tomatos, 12 oz	3.99
